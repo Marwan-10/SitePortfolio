@@ -88,7 +88,7 @@ export const HeroSection = () => {
           <h1 className='font-serif text-3xl md:text-5xl text-center mt-8 tracking-wide '> Étudiant en M2 Informatique <br></br> Parcours ARIAS <br></br> (Applications Réparties, IA et Sécurité)</h1>
           <p className='text-center mt-4 text-white/60 md:text-lg'> Passionné par l&#39;intelligence artificielle, 
             le développement d&#39;applications et la cybersécurité, 
-            je suis actuellement à la recherche d&#39;un stage débutant en avril 2025 
+            je suis actuellement à la recherche d&#39;un stage débutant en avril 2026 
             afin de mettre mes compétences en pratique et contribuer à des projets. 
           </p>
         </div>
