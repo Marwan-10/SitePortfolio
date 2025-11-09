@@ -15,6 +15,7 @@ const portfolioProjects = [
     year: "2024",
     title: "Jeu Éducatif 2D (Unity & C#)",
     results: [
+      { title: "Unity / C# / Python / MySQL" },
       { title: "Développement d’un jeu éducatif 2D multiplateforme (PC, Android & IOS)" },
       { title: "Base de données SQL intégrée pour gérer les questions et résultats" },
       { title: "Projet sur GitHub, réalisé avec Unity et C#" },
@@ -26,6 +27,7 @@ const portfolioProjects = [
     year: "2025",
     title: "Portfolio en ligne — React, Next.js & Tailwind",
     results: [
+      { title: "React, Next.js, Tailwind CSS" },
       { title: "Création du site personnel avec animations CSS et interface responsive" },
       { title: "Déploiement moderne sous Next.js avec TailwindCSS" },
       { title: "Design sobre et clair pour valoriser mes projets" },
@@ -37,8 +39,8 @@ const portfolioProjects = [
     year: "2024",
     title: "README Journal — Notes de Cybersécurité et Linux",
     results: [
-      { title: "Compilation de connaissances issues de cours Udemy" },
       { title: "Outils étudiés : Nmap, Metasploit, Wireshark, Kali Linux" },
+      { title: "Compilation de connaissances issues de cours Udemy" },
       { title: "Documentation claire et organisée sous forme de README.md" },
     ],
     link: "https://github.com/Marwan-10/JournalCyberSecurity", 
@@ -48,6 +50,7 @@ const portfolioProjects = [
     year: "2023",
     title: "Assistant Jarvis (Python + API ChatGPT)",
     results: [
+      { title: "Python, API " },
       { title: "Assistant vocal inspiré d’Iron Man, codé en Python" },
       { title: "Utilisation de l’API ChatGPT pour la compréhension du langage" },
       { title: "Reconnaissance vocale, synthèse et commandes système" },
